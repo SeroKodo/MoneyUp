@@ -5,4 +5,22 @@
     <string name="title_categories">Categories</string>
     <string name="title_settings">Settings</string>
     <string name="title_total">Total</string>
+
+    <string name="botton_table">Таблица</string>
+    <string name="button_graph">Графики</string>
+
+    <string name="item_1">Первый длинный текст, который необходимо прокручивать...</string>
+    <string name="item_2">Второй длинный текст, который необходимо прокручивать...</string>
+    <string name="item_3">Третий длинный текст, который необходимо прокручивать...</string>
+
+    <string name="home_text_1">Тут доход: плановый, фактический, дополнительный</string>
+    <string name="home_text_2">Тут остаток: плановый, фактический, разница</string>
+    <string name="home_text_3">Накоплено за всё время</string>
+    <string name="home_text_4">Инвистиции общая сумма</string>
+
+    <string name="button_theme">Темная тема</string>
+
+    <string name="total_text_1">Тут итоговые запланированные затраты, итоговые фактические затраты</string>
+    <string name="total_text_2">Отложено за этот месяц</string>
+    <string name="total_text_3">Скролинг категорий и товаров в которых был превышен бюджет ИЛИ сообщение что превыщение бюджета не было</string>
 </resources>
